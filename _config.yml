@@ -26,7 +26,7 @@ description: StellaTalullah
 purpose:
   - type: contact
     url: 'mailto:cheryl.frederick@me.com'
-    label: email me
+    label: Email Me
   - type: internal
     label: Shop
     item: c0c1a73c-d5a2-45c5-ae9a-51002459135a
