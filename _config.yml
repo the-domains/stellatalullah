@@ -1,0 +1,29 @@
+typography_spectrum: 0.16871679364703596
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.1498810222838074
+  lightness: 0.23544856160879135
+  saturation: 0.08060940541327
+  rhythmicContrast: 0.2273191928397864
+  brandColors:
+    - '#FFFFFF'
+    - '#FBB03B'
+    - '#8CAE40'
+    - '#000000'
+    - '#646464'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a8e6091-dc6a-4e1d-ac60-49cc8e98ca3f.jpg
+layout_spectrum: 0.7001693225465715
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/91bb69d7-9e9c-440e-be7d-e35d23f1575c.jpg
+name: StellaTalullah
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86e957b-977a-401c-9b39-99758f14b98b.jpg
+description: this is a test
+purpose:
+  - type: contact
+    url: 'mailto:cheryl.frederick@me.com'
+    label: email me
